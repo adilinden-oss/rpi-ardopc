@@ -1,0 +1,268 @@
+13:06:52.863 ARDOPC Version 1.0.4.1i-BPQ
+13:06:52.876 Capture Devices
+13:06:55.506 0 Old 7100 (USB Audio CODEC )
+13:06:55.563 1 CABLE-A Output (VB-Audio Cable 
+13:06:55.671 2 CABLE Output (VB-Audio Virtual 
+13:06:56.594 3 Microphone (Intel SST Audio Dev
+13:06:56.656 4 CABLE-B Output (VB-Audio Cable 
+13:06:56.666 Playback Devices
+13:06:57.027 0 Old 7100 (USB Audio CODEC )
+13:06:57.621 1 Speakers (VB-Audio Virtual Cabl
+13:06:57.820 2 Speakers (Intel SST Audio Devic
+13:06:58.061 3 CABLE-A Input (VB-Audio Cable A
+13:06:58.507 4 CABLE-B (VB-Audio Cable B)
+13:06:58.634 Opened WaveOut Device Old 7100 (USB Audio CODEC )
+13:06:58.659 Opened WaveIn Device Old 7100 (USB Audio CODEC )
+13:06:58.701 ARDOPC listening on port 8520
+13:06:58.722 Input peaks = -19595, 20977
+13:06:59.120 Host Control Session Connected
+13:06:59.121 Host Data Session Connected
+13:07:01.151 [Command Trace FROM host: INITIALIZE
+13:07:01.155  Command Trace TO Host BUFFER 0
+13:07:01.155  Command Trace TO Host INITIALIZE
+13:07:01.156 [Command Trace FROM host: VERSION
+13:07:01.157  Command Trace TO Host VERSION ARDOP TNC_1.0.4.1i-BPQ
+13:07:01.157 [Command Trace FROM host: CWID FALSE
+13:07:01.157  Command Trace TO Host CWID now FALSE
+13:07:01.157 [Command Trace FROM host: PROTOCOLMODE ARQ
+13:07:01.158  Command Trace TO Host PROTOCOLMODE now ARQ
+13:07:01.158 [Command Trace FROM host: ARQTIMEOUT 90
+13:07:01.158  Command Trace TO Host ARQTIMEOUT now 90
+13:07:01.162 [Command Trace FROM host: DEBUGLOG TRUE
+13:07:01.173  Command Trace TO Host DEBUGLOG now TRUE
+13:07:01.179 [Command Trace FROM host: CMDTRACE TRUE
+13:07:01.181  Command Trace TO Host CMDTRACE now TRUE
+13:07:01.189 [Command Trace FROM host: CWID FALSE
+13:07:01.190  Command Trace TO Host CWID now FALSE
+13:07:01.195 [Command Trace FROM host: DRIVELEVEL 100
+13:07:01.200  Command Trace TO Host DRIVELEVEL now 100
+13:07:01.204 [Command Trace FROM host: GRIDSQUARE IO68VL
+13:07:01.207  Command Trace TO Host GRIDSQUARE now IO68VL
+13:07:01.213 [Command Trace FROM host: FECREPEATS 0
+13:07:01.216  Command Trace TO Host FECREPEATS now 0
+13:07:01.226 [Command Trace FROM host: TXLEVEL 300
+13:07:01.228  Command Trace TO Host TXLEVEL command not available on this platform
+13:07:01.234 [Command Trace FROM host: ARQBW 500
+13:07:01.242  Command Trace TO Host FAULT Syntax Err: ARQBW 500
+13:07:01.244 [Command Trace FROM host: MYCALL GM8BPQ-2
+13:07:01.248  Command Trace TO Host MYCALL now GM8BPQ-2
+13:07:01.256 [Command Trace FROM host: MYAUX GM8BPQ-10,GM8BPQ-4,GM8BPQ,GM8BPQ-3,GM8BPQ-15
+13:07:01.258  Command Trace TO Host MYAUX now GM8BPQ-10,GM8BPQ-4,GM8BPQ,GM8BPQ-3,GM8BPQ-15
+13:07:02.367 [Command Trace FROM host: LISTEN FALSE
+13:07:02.372  Command Trace TO Host LISTEN now FALSE
+13:07:02.694 [Command Trace FROM host: STATE
+13:07:02.699  Command Trace TO Host STATE DISC
+13:07:08.759 Input peaks = -25771, 25238
+13:07:11.614 [Command Trace FROM host: ARQCALL LA3F 10
+13:07:11.619  Command Trace TO Host ARQCALL LA3F 10
+13:07:11.637  Command Trace TO Host NEWSTATE ISS 
+13:07:11.642 [SendARQConnectRequest] strMycall=GM8BPQ-2  strTargetCall=LA3F bytPendingSessionID=62
+13:07:11.645 Sending Frame Type ConReq2000M
+13:07:11.649 [Main.KeyPTT]  PTT-TRUE
+13:07:13.400 [Main.KeyPTT]  PTT-FALSE
+13:07:15.407 Repeating Last Frame
+13:07:15.417 Sending Frame Type ConReq2000M
+13:07:15.422 [Main.KeyPTT]  PTT-TRUE
+13:07:17.176 [Main.KeyPTT]  PTT-FALSE
+13:07:18.833 Input peaks = -25355, 24682
+13:07:19.185 Repeating Last Frame
+13:07:19.190 Sending Frame Type ConReq2000M
+13:07:19.194 [Main.KeyPTT]  PTT-TRUE
+13:07:20.944 [Main.KeyPTT]  PTT-FALSE
+13:07:22.945 Repeating Last Frame
+13:07:22.951 Sending Frame Type ConReq2000M
+13:07:22.955 [Main.KeyPTT]  PTT-TRUE
+13:07:24.714 [Main.KeyPTT]  PTT-FALSE
+13:07:26.716 Repeating Last Frame
+13:07:26.722 Sending Frame Type ConReq2000M
+13:07:26.726 [Main.KeyPTT]  PTT-TRUE
+13:07:28.486 [Main.KeyPTT]  PTT-FALSE
+13:07:28.874 Input peaks = -25441, 25565
+13:07:30.487 Repeating Last Frame
+13:07:30.491 Sending Frame Type ConReq2000M
+13:07:30.496 [Main.KeyPTT]  PTT-TRUE
+13:07:32.244 [Main.KeyPTT]  PTT-FALSE
+13:07:34.245 Repeating Last Frame
+13:07:34.249 Sending Frame Type ConReq2000M
+13:07:34.254 [Main.KeyPTT]  PTT-TRUE
+13:07:36.001 [Main.KeyPTT]  PTT-FALSE
+13:07:38.007 Repeating Last Frame
+13:07:38.012 Sending Frame Type ConReq2000M
+13:07:38.017 [Main.KeyPTT]  PTT-TRUE
+13:07:38.938 Input peaks = -25079, 25697
+13:07:39.769 [Main.KeyPTT]  PTT-FALSE
+13:07:41.772 Repeating Last Frame
+13:07:41.778 Sending Frame Type ConReq2000M
+13:07:41.782 [Main.KeyPTT]  PTT-TRUE
+13:07:43.535 [Main.KeyPTT]  PTT-FALSE
+13:07:45.537 Repeating Last Frame
+13:07:45.546 Sending Frame Type ConReq2000M
+13:07:45.548 [Main.KeyPTT]  PTT-TRUE
+13:07:47.298 [Main.KeyPTT]  PTT-FALSE
+13:07:48.991 Input peaks = -26762, 24284
+13:07:49.312  Command Trace TO Host BUFFER 0
+13:07:49.319  Command Trace TO Host BUFFER 0
+13:07:49.323  Command Trace TO Host NEWSTATE DISC 
+13:07:49.328  Command Trace TO Host STATUS CONNECT TO LA3F FAILED!
+13:07:59.031 Input peaks = -26118, 24860
+13:08:05.791 [Command Trace FROM host: ARQBW 500
+13:08:05.796  Command Trace TO Host FAULT Syntax Err: ARQBW 500
+13:08:08.945 [Command Trace FROM host: STATE
+13:08:08.953  Command Trace TO Host STATE DISC
+13:08:09.118 Input peaks = -25215, 24437
+13:08:11.608 [Command Trace FROM host: ARQBW 500MAX
+13:08:11.614  Command Trace TO Host ARQBW now 500MAX
+13:08:14.770 [Command Trace FROM host: ARQCALL LA3F 10
+13:08:14.776  Command Trace TO Host ARQCALL LA3F 10
+13:08:14.788  Command Trace TO Host NEWSTATE ISS 
+13:08:14.791 [SendARQConnectRequest] strMycall=GM8BPQ-2  strTargetCall=LA3F bytPendingSessionID=62
+13:08:14.798 Sending Frame Type ConReq500M
+13:08:14.803 [Main.KeyPTT]  PTT-TRUE
+13:08:16.554 [Main.KeyPTT]  PTT-FALSE
+13:08:18.556 Repeating Last Frame
+13:08:18.562 Sending Frame Type ConReq500M
+13:08:18.567 [Main.KeyPTT]  PTT-TRUE
+13:08:19.214 Input peaks = -27677, 24416
+13:08:20.319 [Main.KeyPTT]  PTT-FALSE
+13:08:22.326 Repeating Last Frame
+13:08:22.335 Sending Frame Type ConReq500M
+13:08:22.343 [Main.KeyPTT]  PTT-TRUE
+13:08:24.098 [Main.KeyPTT]  PTT-FALSE
+13:08:26.101 Repeating Last Frame
+13:08:26.107 Sending Frame Type ConReq500M
+13:08:26.113 [Main.KeyPTT]  PTT-TRUE
+13:08:27.872 [Main.KeyPTT]  PTT-FALSE
+13:08:29.272 Input peaks = -26440, 24778
+13:08:29.876 Repeating Last Frame
+13:08:29.883 Sending Frame Type ConReq500M
+13:08:29.885 [Main.KeyPTT]  PTT-TRUE
+13:08:31.637 [Main.KeyPTT]  PTT-FALSE
+13:08:33.643 Repeating Last Frame
+13:08:33.649 Sending Frame Type ConReq500M
+13:08:33.652 [Main.KeyPTT]  PTT-TRUE
+13:08:35.401 [Main.KeyPTT]  PTT-FALSE
+13:08:37.412 Repeating Last Frame
+13:08:37.417 Sending Frame Type ConReq500M
+13:08:37.422 [Main.KeyPTT]  PTT-TRUE
+13:08:39.176 [Main.KeyPTT]  PTT-FALSE
+13:08:39.315 Input peaks = -26089, 25686
+13:08:41.178 Repeating Last Frame
+13:08:41.183 Sending Frame Type ConReq500M
+13:08:41.187 [Main.KeyPTT]  PTT-TRUE
+13:08:42.938 [Main.KeyPTT]  PTT-FALSE
+13:08:44.947 Repeating Last Frame
+13:08:44.954 Sending Frame Type ConReq500M
+13:08:44.958 [Main.KeyPTT]  PTT-TRUE
+13:08:46.705 [Main.KeyPTT]  PTT-FALSE
+13:08:48.713 Repeating Last Frame
+13:08:48.718 Sending Frame Type ConReq500M
+13:08:48.723 [Main.KeyPTT]  PTT-TRUE
+13:08:49.413 Input peaks = -27704, 25603
+13:08:50.474 [Main.KeyPTT]  PTT-FALSE
+13:08:52.479  Command Trace TO Host BUFFER 0
+13:08:52.485  Command Trace TO Host BUFFER 0
+13:08:52.489  Command Trace TO Host NEWSTATE DISC 
+13:08:52.497  Command Trace TO Host STATUS CONNECT TO LA3F FAILED!
+13:09:09.137 Input peaks = -21996, 24489
+13:46:51.968 [Command Trace FROM host: STATE
+13:46:52.404  Command Trace TO Host STATE DISC
+13:47:57.592 [Command Trace FROM host: STATE
+13:47:57.597  Command Trace TO Host STATE DISC
+13:49:03.472 [Command Trace FROM host: STATE
+13:49:03.479  Command Trace TO Host STATE DISC
+13:50:10.584 [Command Trace FROM host: STATE
+13:50:10.602  Command Trace TO Host STATE DISC
+13:51:16.419 [Command Trace FROM host: STATE
+13:51:16.430  Command Trace TO Host STATE DISC
+13:52:22.262 [Command Trace FROM host: STATE
+13:52:22.269  Command Trace TO Host STATE DISC
+13:53:28.092 [Command Trace FROM host: STATE
+13:53:28.099  Command Trace TO Host STATE DISC
+13:54:33.967 [Command Trace FROM host: STATE
+13:54:33.974  Command Trace TO Host STATE DISC
+13:55:40.311 [Command Trace FROM host: STATE
+13:55:40.316  Command Trace TO Host STATE DISC
+13:56:46.190 [Command Trace FROM host: STATE
+13:56:46.201  Command Trace TO Host STATE DISC
+13:57:52.071 [Command Trace FROM host: STATE
+13:57:52.079  Command Trace TO Host STATE DISC
+13:58:57.684 [Command Trace FROM host: STATE
+13:58:57.689  Command Trace TO Host STATE DISC
+14:00:03.519 [Command Trace FROM host: STATE
+14:00:03.524  Command Trace TO Host STATE DISC
+14:01:09.890 [Command Trace FROM host: STATE
+14:01:09.895  Command Trace TO Host STATE DISC
+14:02:15.747 [Command Trace FROM host: STATE
+14:02:15.755  Command Trace TO Host STATE DISC
+14:02:57.069 [Command Trace FROM host: LISTEN TRUE
+14:02:57.078  Command Trace TO Host LISTEN now TRUE
+14:03:22.330 [Command Trace FROM host: STATE
+14:03:22.336  Command Trace TO Host STATE DISC
+14:04:28.169 [Command Trace FROM host: STATE
+14:04:28.176  Command Trace TO Host STATE DISC
+14:05:34.516 [Command Trace FROM host: STATE
+14:05:34.520  Command Trace TO Host STATE DISC
+14:06:40.868 [Command Trace FROM host: STATE
+14:06:40.878  Command Trace TO Host STATE DISC
+14:07:46.726 [Command Trace FROM host: STATE
+14:07:46.735  Command Trace TO Host STATE DISC
+14:08:52.569 [Command Trace FROM host: STATE
+14:08:52.575  Command Trace TO Host STATE DISC
+14:09:58.416 [Command Trace FROM host: STATE
+14:09:58.424  Command Trace TO Host STATE DISC
+14:11:04.472 [Command Trace FROM host: STATE
+14:11:04.503  Command Trace TO Host STATE DISC
+14:12:10.844 [Command Trace FROM host: STATE
+14:12:10.858  Command Trace TO Host STATE DISC
+14:13:17.541 [Command Trace FROM host: STATE
+14:13:17.550  Command Trace TO Host STATE DISC
+14:14:23.407 [Command Trace FROM host: STATE
+14:14:23.421  Command Trace TO Host STATE DISC
+14:15:29.260 [Command Trace FROM host: STATE
+14:15:29.265  Command Trace TO Host STATE DISC
+14:16:35.120 [Command Trace FROM host: STATE
+14:16:35.128  Command Trace TO Host STATE DISC
+14:17:42.026 [Command Trace FROM host: STATE
+14:17:42.028  Command Trace TO Host STATE DISC
+14:18:49.281 [Command Trace FROM host: STATE
+14:18:49.283  Command Trace TO Host STATE DISC
+14:19:55.303 [Command Trace FROM host: STATE
+14:19:55.304  Command Trace TO Host STATE DISC
+14:21:01.690 [Command Trace FROM host: STATE
+14:21:01.692  Command Trace TO Host STATE DISC
+14:22:07.545 [Command Trace FROM host: STATE
+14:22:07.548  Command Trace TO Host STATE DISC
+14:23:14.761 [Command Trace FROM host: STATE
+14:23:14.762  Command Trace TO Host STATE DISC
+14:24:20.618 [Command Trace FROM host: STATE
+14:24:20.623  Command Trace TO Host STATE DISC
+14:25:26.607 [Command Trace FROM host: STATE
+14:25:26.608  Command Trace TO Host STATE DISC
+14:26:32.488 [Command Trace FROM host: STATE
+14:26:32.489  Command Trace TO Host STATE DISC
+14:27:38.324 [Command Trace FROM host: STATE
+14:27:38.326  Command Trace TO Host STATE DISC
+14:28:45.838 [Command Trace FROM host: STATE
+14:28:45.839  Command Trace TO Host STATE DISC
+14:29:51.703 [Command Trace FROM host: STATE
+14:29:51.704  Command Trace TO Host STATE DISC
+14:30:57.551 [Command Trace FROM host: STATE
+14:30:57.552  Command Trace TO Host STATE DISC
+14:32:03.432 [Command Trace FROM host: STATE
+14:32:03.433  Command Trace TO Host STATE DISC
+14:33:09.275 [Command Trace FROM host: STATE
+14:33:09.277  Command Trace TO Host STATE DISC
+14:34:15.631 [Command Trace FROM host: STATE
+14:34:15.632  Command Trace TO Host STATE DISC
+14:35:22.003 [Command Trace FROM host: STATE
+14:35:22.004  Command Trace TO Host STATE DISC
+14:36:27.855 [Command Trace FROM host: STATE
+14:36:27.856  Command Trace TO Host STATE DISC
+14:37:33.740 [Command Trace FROM host: STATE
+14:37:33.741  Command Trace TO Host STATE DISC
+14:38:40.819 [Command Trace FROM host: STATE
+14:38:40.875  Command Trace TO Host STATE DISC
+14:39:48.932 [Command Trace FROM host: STATE
+14:39:48.934  Command Trace TO Host STATE DISC
+14:40:56.458 [Command Trace FROM host: STATE
+14:40:56.460  Command Trace TO Host STATE DISC

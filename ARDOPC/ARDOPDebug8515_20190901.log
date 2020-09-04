@@ -1,0 +1,226 @@
+07:07:45.776 ARDOPC Version 1.0.4.1i-BPQ
+07:07:45.779 Capture Devices
+07:07:46.484 0 Stereo Mix (Realtek High Defini
+07:07:46.560 1 CABLE Output (VB-Audio Virtual 
+07:07:46.560 Playback Devices
+07:07:46.639 0 Speakers (Realtek High Definiti
+07:07:46.658 1 CABLE Input (VB-Audio Virtual C
+07:07:46.683 2 Realtek Digital Output (Realtek
+07:07:46.706 Opened WaveOut Device Speakers (Realtek High Definiti
+07:07:46.716 Opened WaveIn Device Stereo Mix (Realtek High Defini
+07:07:46.732 ARDOPC listening on port 8520
+07:07:46.770 Input peaks = -5, 6
+07:07:56.104 Host Control Session Connected
+07:07:56.104 Host Data Session Connected
+07:07:56.833 Input peaks = -10, 10
+07:07:58.109 [Command Trace FROM host: INITIALIZE
+07:07:58.109  Command Trace TO Host BUFFER 0
+07:07:58.109  Command Trace TO Host INITIALIZE
+07:07:58.109 [Command Trace FROM host: VERSION
+07:07:58.110  Command Trace TO Host VERSION ARDOP TNC_1.0.4.1i-BPQ
+07:07:58.110 [Command Trace FROM host: CWID FALSE
+07:07:58.110  Command Trace TO Host CWID now FALSE
+07:07:58.110 [Command Trace FROM host: PROTOCOLMODE ARQ
+07:07:58.110  Command Trace TO Host PROTOCOLMODE now ARQ
+07:07:58.110 [Command Trace FROM host: ARQTIMEOUT 90
+07:07:58.110  Command Trace TO Host ARQTIMEOUT now 90
+07:07:58.110 [Command Trace FROM host: DEBUGLOG TRUE
+07:07:58.110  Command Trace TO Host DEBUGLOG now TRUE
+07:07:58.110 [Command Trace FROM host: CMDTRACE TRUE
+07:07:58.110  Command Trace TO Host CMDTRACE now TRUE
+07:07:58.111 [Command Trace FROM host: CWID FALSE
+07:07:58.111  Command Trace TO Host CWID now FALSE
+07:07:58.112 [Command Trace FROM host: DRIVELEVEL 100
+07:07:58.112  Command Trace TO Host DRIVELEVEL now 100
+07:07:58.113 [Command Trace FROM host: GRIDSQUARE IO68VL
+07:07:58.113  Command Trace TO Host GRIDSQUARE now IO68VL
+07:07:58.114 [Command Trace FROM host: FECREPEATS 0
+07:07:58.114  Command Trace TO Host FECREPEATS now 0
+07:07:58.115 [Command Trace FROM host: FASTSTART TRUE
+07:07:58.115  Command Trace TO Host FASTSTART now TRUE
+07:07:58.116 [Command Trace FROM host: CONSOLELOG 7
+07:07:58.116  Command Trace TO Host CONSOLELOG now 7
+07:07:58.117 [Command Trace FROM host: MYCALL G8BPQ-2
+07:07:58.117  Command Trace TO Host MYCALL now G8BPQ-2
+07:07:58.118 [Command Trace FROM host: MYAUX G8BPQ-10,G8BPQ-1,G8BPQ,G8BPQ-5
+07:07:58.122  Command Trace TO Host MYAUX now G8BPQ-10,G8BPQ-1,G8BPQ,G8BPQ-5
+07:08:06.931 Input peaks = -9, 8
+07:08:10.924 [Command Trace FROM host: LISTEN FALSE
+07:08:10.925  Command Trace TO Host LISTEN now FALSE
+07:08:16.031  Command Trace TO Host BUSY TRUE
+07:08:16.983 Input peaks = -4971, 4859
+07:08:22.652  Command Trace TO Host BUSY FALSE
+07:08:27.031 Input peaks = -10, 9
+07:08:37.107 Input peaks = -10, 10
+07:08:44.574 [Command Trace FROM host: STATE
+07:08:44.574  Command Trace TO Host STATE DISC
+07:08:47.170 Input peaks = -10, 9
+07:08:57.250 Input peaks = -10, 9
+07:09:06.007 [Command Trace FROM host: ARQCALL G8BPQ-2 5
+07:09:06.009  Command Trace TO Host ARQCALL G8BPQ-2 5
+07:09:06.020  Command Trace TO Host NEWSTATE ISS 
+07:09:06.023 [SendARQConnectRequest] strMycall=G8BPQ-2  strTargetCall=G8BPQ-2 bytPendingSessionID=ac
+07:09:06.024 Sending Frame Type ConReq2000M
+07:09:06.024 [Main.KeyPTT]  PTT-TRUE
+07:09:07.326 Input peaks = -28318, 28323
+07:09:07.754 [Main.KeyPTT]  PTT-FALSE
+07:09:08.402 Prior-Offset= 1.184479
+07:09:08.504 EnvelopeCorrelator CorMax:MaxProd= 60.035894  J= 279
+07:09:08.506 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+07:09:08.803 Frame Decode type 3c 3c f Dist 0.01 0.01 0.40 Sess ac pend 1 conn 0 lastsess 0
+07:09:08.806 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 12.185123 dB, Full 8.102978 dB, Offset= -1.796212 Hz:  MD Decode;6 ID=HAC, Type=H3C:ConAck2000, D1= 0.01, D2= 0.01
+07:09:08.807 New frame type - MEMARQ flags reset
+07:09:08.810 MEMARQ Flags 0 0 0 0 0 0 0 0
+07:09:09.111 Qual = 100
+07:09:09.116 DecodeFrame MEMARQ Flags 0 0 0 0 0 0 0 0
+07:09:09.117 [DemodDecode4FSKConACK]  Remote leader timing reported: 210 ms
+07:09:09.117 [DecodeFrame] Frame: ConAck2000 Decode PASS,   Constellation Quality= 100
+07:09:09.118 Time since received = 6
+07:09:09.369 [ARDOPprotocol.GetNextFrameData] Initial Frame Type: 4PSK.1000.100.E
+07:09:09.372 [ARDOPprotocol.ProcessRcvdARQFrame] Compatible bandwidth received from IRS ConAck: 2000 Hz
+07:09:09.373 Sending Frame Type ConAck2000
+07:09:09.374 [Main.KeyPTT]  PTT-TRUE
+07:09:10.078 [Main.KeyPTT]  PTT-FALSE
+07:09:12.082 Repeating Last Frame
+07:09:12.083 Sending Frame Type ConAck2000
+07:09:12.087 [Main.KeyPTT]  PTT-TRUE
+07:09:12.749 [Main.KeyPTT]  PTT-FALSE
+07:09:13.114 Prior-Offset= 1.694845
+07:09:13.216 EnvelopeCorrelator CorMax:MaxProd= 60.241798  J= 187
+07:09:13.220 [Acquire2ToneLeaderSymbolFraming] intIatMinError= -1
+07:09:13.517 Frame Decode type fe fe 2d Dist 0.00 0.01 0.40 Sess ac pend 1 conn 0 lastsess 0
+07:09:13.519 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 12.266327 dB, Full 8.243103 dB, Offset= -1.760363 Hz:  MD Decode;6 ID=HAC, Type=HFE:DataACK, D1= 0.00, D2= 0.01
+07:09:13.520 [DecodeFrame] Frame: DataACK 
+07:09:13.523 Time since received = 0
+07:09:13.774 [ARDOPprotocol.ProcessRcvdARQFrame] ISS RmtLeaderMeas=403 ms
+07:09:13.776 [ARDOPprotocol.ProcessRcvdARQFrame] ACK received in ARQState ISSConAck 
+07:09:13.776  Command Trace TO Host CONNECTED G8BPQ-2 2000
+07:09:13.780  Command Trace TO Host STATUS ARQ CONNECTION ESTABLISHED WITH G8BPQ-2, SESSION BW = 2000 HZ
+07:09:13.782  Command Trace TO Host NEWSTATE IDLE 
+07:09:13.782  Command Trace TO Host BUFFER 0
+07:09:13.785 Sending Frame Type IDLE
+07:09:13.786 [Main.KeyPTT]  PTT-TRUE
+07:09:14.244 [Main.KeyPTT]  PTT-FALSE
+07:09:14.248 [ARDOPprotocol.SendData]  Send IDLE with Repeat, Set ProtocolState=IDLE 
+07:09:14.590 Prior-Offset= 1.677234
+07:09:14.692 EnvelopeCorrelator CorMax:MaxProd= 60.112760  J= 189
+07:09:14.696 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+07:09:14.982 Frame Decode type 23 23 f Dist 0.01 0.01 0.40 Sess ac pend 0 conn 1 lastsess 0
+07:09:14.987 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 12.235645 dB, Full 8.239998 dB, Offset= -1.752121 Hz:  MD Decode;8 ID=HAC, Critical Type=H23: BREAK, D1= 0.01, D2= 0.01
+07:09:14.987 [DecodeFrame] Frame: BREAK 
+07:09:14.988 Time since received = 0
+07:09:15.239 Sending Frame Type DataACK
+07:09:15.242 [Main.KeyPTT]  PTT-TRUE
+07:09:15.706 [Main.KeyPTT]  PTT-FALSE
+07:09:15.707 [ARDOPprotocol.ProcessRcvdARQFrame] BREAK Rcvd from IDLE, Go to IRS, Substate IRSfromISS
+07:09:15.710  Command Trace TO Host STATUS BREAK received from Protocol State IDLE, new state IRS
+07:09:15.711  Command Trace TO Host NEWSTATE IRS 
+07:09:16.030 Prior-Offset= 1.239672
+07:09:16.131 EnvelopeCorrelator CorMax:MaxProd= 61.002636  J= 63
+07:09:16.132 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+07:09:16.428 Frame Decode type 51 51 fe Dist 0.01 0.00 0.20 Sess ac pend 0 conn 1 lastsess 0
+07:09:16.429 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 7.903248 dB, Full 7.608814 dB, Offset= -1.522938 Hz:  MD Decode;9 ID=HAC, Type=H51: 4PSK.500.100.O, D1= 0.01, D2= 0.00
+07:09:16.433 New frame type - MEMARQ flags reset
+07:09:16.433 MEMARQ Flags 0 0 0 0 0 0 0 0
+07:09:17.426 Input peaks = -32768, 32767
+07:09:20.427 [CorrectRawDataWithRS] OK without RS
+07:09:20.429 [CorrectRawDataWithRS] OK without RS
+07:09:20.433 Qual = 87
+07:09:20.434 DecodeFrame MEMARQ Flags 1 1 0 0 0 0 0 0
+07:09:20.435 [DecodeFrame] Frame: 4PSK.500.100.O Decode PASS,   Constellation Quality= 87
+07:09:20.436 Time since received = 9
+07:09:20.678 [AddTagToDataAndSendToHost] bytes=29 Tag ARQ
+07:09:20.679 [ARDOPprotocol.ProcessRcvdARQFrame] Data Rcvd in ProtocolState=IRSData, Substate IRSfromISS Go to Substate IRSData
+07:09:20.680 Sending Frame Type DataACK
+07:09:20.683 [Main.KeyPTT]  PTT-TRUE
+07:09:21.146 [Main.KeyPTT]  PTT-FALSE
+07:09:22.328 Prior-Offset= 1.207803
+07:09:22.429 EnvelopeCorrelator CorMax:MaxProd= 60.059723  J= 310
+07:09:22.430 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+07:09:22.729 Frame Decode type 51 51 fe Dist 0.01 0.00 0.20 Sess ac pend 0 conn 1 lastsess 0
+07:09:22.732 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 7.882507 dB, Full 7.597767 dB, Offset= -1.511494 Hz:  MD Decode;9 ID=HAC, Type=H51: 4PSK.500.100.O, D1= 0.01, D2= 0.00
+07:09:22.734 MEMARQ Flags 1 1 0 0 0 0 0 0
+07:09:26.725 [CorrectRawDataWithRS] Carrier 0 already decoded
+07:09:26.727 [CorrectRawDataWithRS] Carrier 1 already decoded
+07:09:26.727 Qual = 87
+07:09:26.731 DecodeFrame MEMARQ Flags 1 1 0 0 0 0 0 0
+07:09:26.731 [DecodeFrame] Frame: 4PSK.500.100.O Decode PASS,   Constellation Quality= 87
+07:09:26.732 Time since received = 6
+07:09:26.977 [ARDOPprotocol.ProcessRcvdARQFrame] Frame with same Type - Discard
+07:09:26.979 Sending Frame Type DataACK
+07:09:26.983 [Main.KeyPTT]  PTT-TRUE
+07:09:27.446 [Main.KeyPTT]  PTT-FALSE
+07:09:27.468 Input peaks = -32768, 32767
+07:09:27.822 Prior-Offset= 1.195408
+07:09:27.938 EnvelopeCorrelator CorMax:MaxProd= 60.382758  J= 308
+07:09:27.940 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+07:09:28.227 Frame Decode type 24 24 48 Dist 0.01 0.00 0.20 Sess ac pend 0 conn 1 lastsess 0
+07:09:28.229 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 7.466599 dB, Full 8.585037 dB, Offset= -1.504507 Hz:  MD Decode;9 ID=HAC, Type=H24: IDLE, D1= 0.01, D2= 0.00
+07:09:28.229 [DecodeFrame] Frame: IDLE 
+07:09:28.232 Time since received = 0
+07:09:28.483 [ARDOPprotocol.ProcessRcvdARQFrame]  IDLE received in ProtocolState IRS substate IRSData
+07:09:28.484 Sending Frame Type DataACK
+07:09:28.485 [Main.KeyPTT]  PTT-TRUE
+07:09:28.947 [Main.KeyPTT]  PTT-FALSE
+07:09:30.410 Prior-Offset= 1.194646
+07:09:30.511 EnvelopeCorrelator CorMax:MaxProd= 60.858153  J= 65
+07:09:30.512 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+07:09:30.810 Frame Decode type 24 24 48 Dist 0.01 0.01 0.20 Sess ac pend 0 conn 1 lastsess 0
+07:09:30.815 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 7.465170 dB, Full 8.588493 dB, Offset= -1.504464 Hz:  MD Decode;9 ID=HAC, Type=H24: IDLE, D1= 0.01, D2= 0.01
+07:09:30.815 [DecodeFrame] Frame: IDLE 
+07:09:30.816 Time since received = 0
+07:09:31.068 [ARDOPprotocol.ProcessRcvdARQFrame]  IDLE received in ProtocolState IRS substate IRSData
+07:09:31.069 Sending Frame Type DataACK
+07:09:31.070 [Main.KeyPTT]  PTT-TRUE
+07:09:31.531 [Main.KeyPTT]  PTT-FALSE
+07:09:31.597  Command Trace TO Host BUFFER 2
+07:09:32.974 Prior-Offset= 1.194380
+07:09:33.077 EnvelopeCorrelator CorMax:MaxProd= 60.306083  J= 307
+07:09:33.080 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+07:09:33.379 Frame Decode type 24 24 48 Dist 0.01 0.01 0.20 Sess ac pend 0 conn 1 lastsess 0
+07:09:33.380 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 7.466309 dB, Full 8.583057 dB, Offset= -1.504114 Hz:  MD Decode;9 ID=HAC, Type=H24: IDLE, D1= 0.01, D2= 0.01
+07:09:33.383 [DecodeFrame] Frame: IDLE 
+07:09:33.384 Time since received = 0
+07:09:33.636 [ARDOPprotocol.ProcessRcvdARQFrame]  IDLE received in ProtocolState IRS substate IRSData
+07:09:33.640  Command Trace TO Host NEWSTATE IRStoISS 
+07:09:33.641  Command Trace TO Host STATUS QUEUE BREAK new Protocol State IRStoISS
+07:09:33.641 Sending Frame Type BREAK
+07:09:33.642 [Main.KeyPTT]  PTT-TRUE
+07:09:34.111 [Main.KeyPTT]  PTT-FALSE
+07:09:34.463 Prior-Offset= 1.547101
+07:09:34.564 EnvelopeCorrelator CorMax:MaxProd= 60.335715  J= 188
+07:09:34.568 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+07:09:34.866 Frame Decode type ff ff 53 Dist 0.00 0.00 0.20 Sess ac pend 0 conn 1 lastsess 0
+07:09:34.871 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 12.044247 dB, Full 8.241131 dB, Offset= -1.691683 Hz:  MD Decode;8 ID=HAC, Critical Type=HFF: DataACK, D1= 0.00, D2= 0.00
+07:09:35.122 [ARDOPprotocol.ProcessNewSamples] ProtocolState=IRStoISS, substate = IRSData ACK received. Cease BREAKS, NewProtocolState=ISS, substate ISSData
+07:09:35.126  Command Trace TO Host NEWSTATE ISS 
+07:09:35.127 [ARDOPprotocol.SendData] DataToSend = 2 bytes, In ProtocolState ISS
+07:09:35.128 [ARDOPprotocol.GetNextFrameData] No shift, Frame Type: 4PSK.1000.100.E
+07:09:35.135 Sending Frame Type 4PSK.1000.100.E
+07:09:35.135 [Main.KeyPTT]  PTT-TRUE
+07:09:37.658 Input peaks = -32496, 32767
+07:09:39.519 [Main.KeyPTT]  PTT-FALSE
+07:09:39.520 Soft Clips 1374 
+07:09:39.939 Prior-Offset= 1.220656
+07:09:40.040 EnvelopeCorrelator CorMax:MaxProd= 60.717894  J= 66
+07:09:40.044 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+07:09:40.341 Frame Decode type fe fe 32 Dist 0.00 0.01 0.40 Sess ac pend 0 conn 1 lastsess 0
+07:09:40.345 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 7.463047 dB, Full 8.585846 dB, Offset= -1.513150 Hz:  MD Decode;8 ID=HAC, Critical Type=HFE: DataACK, D1= 0.00, D2= 0.01
+07:09:40.345 [DecodeFrame] Frame: DataACK 
+07:09:40.346 Time since received = 0
+07:09:40.597  Command Trace TO Host BUFFER 0
+07:09:40.601 [ARDOPprotocol.ComputeQualityAvg] Initialize AvgQuality= 98
+07:09:40.603  Command Trace TO Host NEWSTATE IDLE 
+07:09:40.604  Command Trace TO Host BUFFER 0
+07:09:40.604 Sending Frame Type IDLE
+07:09:40.605 [Main.KeyPTT]  PTT-TRUE
+07:09:41.068 [Main.KeyPTT]  PTT-FALSE
+07:09:41.069 [ARDOPprotocol.SendData]  Send IDLE with Repeat, Set ProtocolState=IDLE 
+07:09:41.487 Prior-Offset= 1.195460
+07:09:41.588 EnvelopeCorrelator CorMax:MaxProd= 61.158201  J= 64
+07:09:41.590 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+07:09:41.888 Frame Decode type 29 29 45 Dist 0.01 0.01 0.20 Sess ac pend 0 conn 1 lastsess 0
+07:09:41.892 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 7.467957 dB, Full 8.583595 dB, Offset= -1.504387 Hz:  MD Decode;8 ID=HAC, Critical Type=H29: DISC, D1= 0.01, D2= 0.01
+07:09:41.892 [DecodeFrame] Frame: DISC 
+07:09:41.893 Time since received = 0
+07:09:42.144 [ARDOPprotocol.ProcessRcvdARQFrame]  DISC frame received Send END...go to DISC state

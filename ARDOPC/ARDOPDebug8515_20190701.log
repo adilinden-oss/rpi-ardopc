@@ -1,0 +1,829 @@
+10:20:01.111 ARDOPC Version 1.0.4.1i-BPQ
+10:20:01.113 Capture Devices
+10:20:01.776 0 CABLE-A Output (VB-Audio Cable 
+10:20:01.844 1 CABLE Output (VB-Audio Virtual 
+10:20:02.105 2 Microphone (Intel SST Audio Dev
+10:20:02.133 3 CABLE-B Output (VB-Audio Cable 
+10:20:02.134 Playback Devices
+10:20:02.209 0 Speakers (Intel SST Audio Devic
+10:20:02.291 1 Speakers (VB-Audio Virtual Cabl
+10:20:02.370 2 CABLE-A Input (VB-Audio Cable A
+10:20:02.448 3 CABLE-B (VB-Audio Cable B)
+10:20:02.512 Opened WaveOut Device CABLE-A Input (VB-Audio Cable A
+10:20:02.536 Opened WaveIn Device CABLE-B Output (VB-Audio Cable 
+10:20:02.580 ARDOPC listening on port 8520
+10:20:02.602 Input peaks = -1, 1
+10:20:11.392 GUI Connected from Address 127.0.0.1
+10:20:14.173 Input peaks = -1, 1
+10:20:24.257 Input peaks = -16383, 16489
+10:20:34.290 Input peaks = -1, 1
+10:21:31.917 Input peaks = -1, 1
+10:21:42.807 Input peaks = -16383, 16383
+10:21:52.878 Input peaks = -1, 1
+10:22:02.921 Input peaks = -1, 1
+10:22:12.983 Input peaks = -1, 1
+10:22:23.057 Input peaks = -1, 1
+10:22:33.102 Input peaks = -1, 1
+10:22:43.184 Input peaks = -1, 1
+10:22:53.247 Input peaks = -16484, 16383
+10:23:03.302 Input peaks = -1, 1
+10:23:13.370 Input peaks = -1, 1
+10:23:23.424 Input peaks = -1, 1
+10:23:33.492 Input peaks = -1, 1
+10:23:43.549 Input peaks = -1, 1
+10:23:53.606 Input peaks = -1, 1
+10:24:03.677 Input peaks = -1, 1
+10:24:19.724 Input peaks = -32284, 32494
+10:24:19.735 Prior-Offset= 0.930278
+10:24:19.809 EnvelopeCorrelator CorMax:MaxProd= 60.008576  J= 311
+10:24:19.814 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:24:20.018 Frame Decode type 0 0 0 Dist 1.00 1.00 1.00 Sess ff pend 0 conn 0 lastsess 0
+10:24:20.025 [Frame Type Decode Fail] Ldr; S:N(3KHz) Early= 28.994087 dB, Full 20.216656 dB, Offset= -1.823461 Hz:  MD Decode;5 Type1=H0, Type2=H0, D1= 1.00, D2= 1.00
+10:24:20.030 poor frame type decode
+10:24:29.756 Input peaks = -1, 1
+10:24:32.882 Prior-Offset= 1.075893
+10:24:32.978 EnvelopeCorrelator CorMax:MaxProd= 60.190250  J= 92
+10:24:32.984 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:24:33.967 frame sync timeout 15174834
+10:24:34.103 Prior-Offset= 0.000031
+10:24:34.198 EnvelopeCorrelator CorMax:MaxProd= 60.409076  J= 93
+10:24:34.204 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:24:35.201 frame sync timeout 1234
+10:24:35.306 Prior-Offset= 0.000129
+10:24:35.424 EnvelopeCorrelator CorMax:MaxProd= 60.005680  J= 334
+10:24:35.432 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:24:36.319 frame sync timeout 1118
+10:24:36.434 Prior-Offset= -0.000106
+10:24:36.532 EnvelopeCorrelator CorMax:MaxProd= 60.426258  J= 93
+10:24:36.537 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:24:37.440 frame sync timeout 1121
+10:24:37.544 Prior-Offset= 0.000046
+10:24:37.663 EnvelopeCorrelator CorMax:MaxProd= 60.006397  J= 333
+10:24:37.670 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:24:38.551 frame sync timeout 1111
+10:24:39.799 Input peaks = -1, 1
+10:24:49.827 Input peaks = -1, 1
+10:24:59.891 Input peaks = -1, 1
+10:25:09.949 Input peaks = -1, 1
+10:25:13.739 Prior-Offset= 1.055937
+10:25:13.846 EnvelopeCorrelator CorMax:MaxProd= 60.007093  J= 226
+10:25:13.857 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:25:14.821 frame sync timeout 36271
+10:25:20.014 Input peaks = -1, 1
+10:25:26.118 Prior-Offset= 0.887705
+10:25:26.216 EnvelopeCorrelator CorMax:MaxProd= 60.750740  J= 1
+10:25:26.222 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:25:27.218 frame sync timeout 12395
+10:25:27.332 Prior-Offset= -0.000004
+10:25:27.429 EnvelopeCorrelator CorMax:MaxProd= 59.999895  J= 238
+10:25:27.437 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:25:28.337 frame sync timeout 1118
+10:25:28.452 Prior-Offset= -0.000042
+10:25:28.549 EnvelopeCorrelator CorMax:MaxProd= 60.011675  J= 238
+10:25:28.553 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:25:29.561 frame sync timeout 1225
+10:25:29.664 Prior-Offset= -0.000075
+10:25:29.778 EnvelopeCorrelator CorMax:MaxProd= 60.124577  J= 2
+10:25:29.785 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:25:30.097 Input peaks = -32285, 32285
+10:25:30.675 frame sync timeout 1114
+10:25:30.790 Prior-Offset= -0.000015
+10:25:30.885 EnvelopeCorrelator CorMax:MaxProd= 60.007308  J= 238
+10:25:30.889 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:25:31.889 frame sync timeout 1213
+10:25:40.142 Input peaks = -1, 1
+10:25:50.177 Input peaks = -1, 1
+10:26:00.275 Input peaks = -1, 1
+10:26:10.336 Input peaks = -1, 1
+10:26:11.800 Prior-Offset= 0.754953
+10:26:11.908 EnvelopeCorrelator CorMax:MaxProd= 59.265144  J= 163
+10:26:11.912 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:26:12.805 frame sync timeout 40914
+10:26:12.920 Prior-Offset= -0.000000
+10:26:13.030 EnvelopeCorrelator CorMax:MaxProd= 59.287025  J= 158
+10:26:13.045 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:26:13.930 frame sync timeout 1125
+10:26:14.044 Prior-Offset= -0.000009
+10:26:14.150 EnvelopeCorrelator CorMax:MaxProd= 59.201531  J= 153
+10:26:14.157 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 1
+10:26:15.045 frame sync timeout 1115
+10:26:20.405 Input peaks = -1, 1
+10:26:30.492 Input peaks = -1, 1
+10:26:40.553 Input peaks = -1, 1
+10:27:36.580 Input peaks = -1, 1
+10:27:46.288 Prior-Offset= 1.443620
+10:27:46.397 EnvelopeCorrelator CorMax:MaxProd= 59.290458  J= 289
+10:27:46.402 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:27:46.661 Input peaks = -25664, 25665
+10:27:47.384 frame sync timeout 92342
+10:27:47.498 Prior-Offset= 0.000010
+10:27:47.617 EnvelopeCorrelator CorMax:MaxProd= 61.365029  J= 46
+10:27:47.628 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:27:48.516 frame sync timeout 1132
+10:27:48.635 Prior-Offset= 0.000062
+10:27:48.734 EnvelopeCorrelator CorMax:MaxProd= 61.779218  J= 37
+10:27:48.741 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:27:49.723 Frame Decode type 0 0 0 Dist 1.00 1.00 1.00 Sess ff pend 0 conn 0 lastsess 0
+10:27:49.733 [Frame Type Decode Fail] Ldr; S:N(3KHz) Early= 31.237621 dB, Full 20.822159 dB, Offset= -2.285410 Hz:  MD Decode;5 Type1=H0, Type2=H0, D1= 1.00, D2= 1.00
+10:27:49.738 poor frame type decode
+10:27:54.255 Prior-Offset= 1.141842
+10:27:54.357 EnvelopeCorrelator CorMax:MaxProd= 60.011323  J= 279
+10:27:54.367 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:27:55.257 frame sync timeout 6741
+10:27:55.366 Prior-Offset= 0.000103
+10:27:55.464 EnvelopeCorrelator CorMax:MaxProd= 62.349378  J= 30
+10:27:55.468 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:27:56.465 frame sync timeout 1209
+10:27:56.581 Prior-Offset= 0.000111
+10:27:56.690 EnvelopeCorrelator CorMax:MaxProd= 61.695896  J= 31
+10:27:56.699 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:27:56.720 Input peaks = -31667, 31668
+10:27:57.589 frame sync timeout 1122
+10:28:06.780 Input peaks = -1, 1
+10:28:16.805 Input peaks = -1, 1
+10:28:26.861 Input peaks = -1, 1
+10:28:29.341 Prior-Offset= 0.594035
+10:29:16.796 Input peaks = -32284, 32494
+10:29:16.847 EnvelopeCorrelator CorMax:MaxProd= 60.011100  J= 191
+10:29:16.853 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:29:17.045 Frame Decode type 0 0 0 Dist 1.00 1.00 1.00 Sess ff pend 0 conn 0 lastsess 0
+10:29:17.051 [Frame Type Decode Fail] Ldr; S:N(3KHz) Early= 28.978016 dB, Full 21.279751 dB, Offset= -1.823326 Hz:  MD Decode;5 Type1=H0, Type2=H0, D1= 1.00, D2= 1.00
+10:29:17.055 poor frame type decode
+10:29:26.877 Input peaks = -1, 1
+10:29:29.077 Prior-Offset= 1.282047
+10:31:27.475 EnvelopeCorrelator CorMax:MaxProd= 59.267889  J= 196
+10:31:27.480 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:31:27.484 frame sync timeout 209899
+10:31:27.496 Input peaks = -25664, 25663
+10:31:37.542 Input peaks = -1, 1
+10:31:47.580 Input peaks = -1, 1
+10:31:57.608 Input peaks = -1, 1
+10:32:05.265 Prior-Offset= 0.000012
+10:32:51.610 Input peaks = -19535, 19666
+10:32:51.664 EnvelopeCorrelator CorMax:MaxProd= 57.870674  J= 29
+10:32:51.669 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 1
+10:32:51.849 Frame Decode type 0 0 0 Dist 1.00 1.00 1.00 Sess ff pend 0 conn 0 lastsess 0
+10:32:51.856 [Frame Type Decode Fail] Ldr; S:N(3KHz) Early= 19.187977 dB, Full 10.821239 dB, Offset= -2.999545 Hz:  MD Decode;5 Type1=H0, Type2=H0, D1= 1.00, D2= 1.00
+10:32:51.858 poor frame type decode
+10:33:01.684 Input peaks = -16383, 16489
+10:33:11.721 Input peaks = -1, 1
+10:33:21.777 Input peaks = -1, 1
+10:33:29.790 Prior-Offset= -0.000002
+10:34:56.388 Input peaks = -18416, 18540
+10:34:56.443 EnvelopeCorrelator CorMax:MaxProd= 57.943768  J= 2
+10:34:56.448 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+10:34:56.641 Frame Decode type 0 0 0 Dist 1.00 1.00 1.00 Sess ff pend 0 conn 0 lastsess 0
+10:34:56.646 [Frame Type Decode Fail] Ldr; S:N(3KHz) Early= 15.388187 dB, Full 7.233574 dB, Offset= -2.999588 Hz:  MD Decode;5 Type1=H0, Type2=H0, D1= 1.00, D2= 1.00
+10:34:56.651 poor frame type decode
+10:35:06.434 Input peaks = -1, 1
+10:35:16.473 Input peaks = -1, 1
+10:35:26.523 Input peaks = -1, 1
+10:35:36.612 Input peaks = -1, 1
+10:35:46.651 Input peaks = -1, 1
+10:35:56.718 Input peaks = -1, 1
+10:36:06.794 Input peaks = -1, 1
+10:36:16.872 Input peaks = -1, 1
+10:36:26.937 Input peaks = -1, 1
+10:36:37.013 Input peaks = -1, 1
+10:36:47.091 Input peaks = -1, 1
+10:36:57.193 Input peaks = -1, 1
+10:37:07.245 Input peaks = -1, 1
+10:37:17.280 Input peaks = -1, 1
+10:37:27.326 Input peaks = -1, 1
+10:37:37.352 Input peaks = -1, 1
+10:37:47.409 Input peaks = -1, 1
+10:37:57.460 Input peaks = -1, 1
+10:38:07.522 Input peaks = -1, 1
+10:38:17.567 Input peaks = -1, 1
+10:38:27.601 Input peaks = -1, 1
+10:38:37.677 Input peaks = -1, 1
+10:38:47.749 Input peaks = -1, 1
+10:38:57.849 Input peaks = -1, 1
+10:39:07.901 Input peaks = -1, 1
+10:39:17.934 Input peaks = -1, 1
+10:39:27.987 Input peaks = -1, 1
+10:39:38.047 Input peaks = -1, 1
+10:39:48.135 Input peaks = -1, 1
+10:39:58.209 Input peaks = -1, 1
+10:40:08.249 Input peaks = -1, 1
+10:40:18.309 Input peaks = -1, 1
+10:40:28.348 Input peaks = -1, 1
+10:40:38.400 Input peaks = -1, 1
+10:40:48.466 Input peaks = -1, 1
+10:40:58.544 Input peaks = -1, 1
+10:41:08.599 Input peaks = -1, 1
+10:41:18.624 Input peaks = -1, 1
+10:41:28.678 Input peaks = -1, 1
+10:41:38.763 Input peaks = -1, 1
+10:41:48.786 Input peaks = -1, 1
+10:41:58.818 Input peaks = -1, 1
+10:42:08.868 Input peaks = -1, 1
+10:42:18.934 Input peaks = -1, 1
+10:42:28.974 Input peaks = -1, 1
+10:42:39.019 Input peaks = -1, 1
+10:42:49.071 Input peaks = -1, 1
+10:42:59.130 Input peaks = -1, 1
+10:43:09.180 Input peaks = -1, 1
+10:43:19.219 Input peaks = -1, 1
+10:43:29.270 Input peaks = -1, 1
+10:43:39.344 Input peaks = -1, 1
+10:43:49.398 Input peaks = -1, 1
+10:43:59.451 Input peaks = -1, 1
+10:44:09.481 Input peaks = -1, 1
+10:44:19.561 Input peaks = -1, 1
+10:44:29.619 Input peaks = -1, 1
+10:44:39.654 Input peaks = -1, 1
+10:44:49.741 Input peaks = -1, 1
+10:44:59.798 Input peaks = -1, 1
+10:45:09.834 Input peaks = -1, 1
+10:45:19.903 Input peaks = -1, 1
+10:45:29.953 Input peaks = -1, 1
+10:45:40.004 Input peaks = -1, 1
+10:45:50.108 Input peaks = -1, 1
+10:46:00.166 Input peaks = -1, 1
+10:46:10.217 Input peaks = -1, 1
+10:46:20.277 Input peaks = -1, 1
+10:46:30.323 Input peaks = -1, 1
+10:46:40.381 Input peaks = -1, 1
+10:46:50.410 Input peaks = -1, 1
+10:47:00.479 Input peaks = -1, 1
+10:47:10.528 Input peaks = -1, 1
+10:47:20.590 Input peaks = -1, 1
+10:47:30.623 Input peaks = -1, 1
+10:47:40.698 Input peaks = -1, 1
+10:47:50.799 Input peaks = -1, 1
+10:48:00.854 Input peaks = -1, 1
+10:48:10.927 Input peaks = -1, 1
+10:48:21.002 Input peaks = -1, 1
+10:48:31.068 Input peaks = -1, 1
+10:48:41.136 Input peaks = -1, 1
+10:48:51.202 Input peaks = -1, 1
+10:49:01.275 Input peaks = -1, 1
+10:49:11.322 Input peaks = -1, 1
+10:49:21.410 Input peaks = -1, 1
+10:49:31.480 Input peaks = -1, 1
+10:49:41.547 Input peaks = -1, 1
+10:49:51.570 Input peaks = -1, 1
+10:50:01.619 Input peaks = -1, 1
+10:50:11.663 Input peaks = -1, 1
+10:50:21.745 Input peaks = -1, 1
+10:50:31.817 Input peaks = -1, 1
+10:50:41.892 Input peaks = -1, 1
+10:50:51.961 Input peaks = -1, 1
+10:51:02.007 Input peaks = -1, 1
+10:51:12.056 Input peaks = -1, 1
+10:51:22.133 Input peaks = -1, 1
+10:51:32.215 Input peaks = -1, 1
+10:51:42.254 Input peaks = -1, 1
+10:51:52.303 Input peaks = -1, 1
+10:52:02.349 Input peaks = -1, 1
+10:52:12.441 Input peaks = -1, 1
+10:52:22.506 Input peaks = -1, 1
+10:52:32.548 Input peaks = -1, 1
+10:52:42.584 Input peaks = -1, 1
+10:52:52.620 Input peaks = -1, 1
+10:53:02.667 Input peaks = -1, 1
+10:53:12.742 Input peaks = -1, 1
+10:53:22.827 Input peaks = -1, 1
+10:53:32.885 Input peaks = -1, 1
+10:53:42.949 Input peaks = -1, 1
+10:53:53.000 Input peaks = -1, 1
+10:54:03.052 Input peaks = -1, 1
+10:54:13.109 Input peaks = -1, 1
+10:54:23.182 Input peaks = -1, 1
+10:54:33.238 Input peaks = -1, 1
+10:54:43.280 Input peaks = -1, 1
+10:54:53.305 Input peaks = -1, 1
+10:55:03.382 Input peaks = -1, 1
+10:55:13.428 Input peaks = -1, 1
+10:55:23.470 Input peaks = -1, 1
+10:55:33.511 Input peaks = -1, 1
+10:55:43.580 Input peaks = -1, 1
+10:55:53.667 Input peaks = -1, 1
+10:56:03.708 Input peaks = -1, 1
+10:56:13.757 Input peaks = -1, 1
+10:56:23.828 Input peaks = -1, 1
+10:56:33.869 Input peaks = -1, 1
+10:56:43.906 Input peaks = -1, 1
+10:56:53.981 Input peaks = -1, 1
+10:57:04.046 Input peaks = -1, 1
+10:57:14.096 Input peaks = -1, 1
+10:57:24.164 Input peaks = -1, 1
+10:57:34.230 Input peaks = -1, 1
+10:57:44.321 Input peaks = -1, 1
+10:57:54.367 Input peaks = -1, 1
+10:58:04.406 Input peaks = -1, 1
+10:58:14.470 Input peaks = -1, 1
+10:58:24.554 Input peaks = -1, 1
+10:58:34.616 Input peaks = -1, 1
+10:58:44.683 Input peaks = -1, 1
+10:58:54.739 Input peaks = -1, 1
+10:59:04.792 Input peaks = -1, 1
+10:59:14.849 Input peaks = -1, 1
+10:59:24.911 Input peaks = -1, 1
+10:59:35.096 Input peaks = -1, 1
+10:59:45.076 Input peaks = -1, 1
+10:59:55.122 Input peaks = -1, 1
+11:00:05.174 Input peaks = -1, 1
+11:00:15.241 Input peaks = -1, 1
+11:00:25.295 Input peaks = -1, 1
+11:00:35.374 Input peaks = -1, 1
+11:00:45.440 Input peaks = -1, 1
+11:00:55.514 Input peaks = -1, 1
+11:01:05.569 Input peaks = -1, 1
+11:01:15.619 Input peaks = -1, 1
+11:01:25.719 Input peaks = -1, 1
+11:01:35.782 Input peaks = -1, 1
+11:01:45.828 Input peaks = -1, 1
+11:01:55.878 Input peaks = -1, 1
+11:02:05.928 Input peaks = -1, 1
+11:02:15.979 Input peaks = -1, 1
+11:02:26.040 Input peaks = -1, 1
+11:02:36.076 Input peaks = -1, 1
+11:02:46.129 Input peaks = -1, 1
+11:02:56.181 Input peaks = -1, 1
+11:03:06.251 Input peaks = -1, 1
+11:03:16.321 Input peaks = -1, 1
+11:03:26.391 Input peaks = -1, 1
+11:03:36.481 Input peaks = -1, 1
+11:03:46.531 Input peaks = -1, 1
+11:03:56.607 Input peaks = -1, 1
+11:04:06.683 Input peaks = -1, 1
+11:04:16.717 Input peaks = -1, 1
+11:04:26.802 Input peaks = -1, 1
+11:04:36.838 Input peaks = -1, 1
+11:04:46.911 Input peaks = -1, 1
+11:04:56.958 Input peaks = -1, 1
+11:05:07.001 Input peaks = -1, 1
+11:05:17.042 Input peaks = -1, 1
+11:05:27.086 Input peaks = -1, 1
+11:05:37.131 Input peaks = -1, 1
+11:05:47.180 Input peaks = -1, 1
+11:05:57.249 Input peaks = -1, 1
+11:06:07.274 Input peaks = -1, 1
+11:06:17.314 Input peaks = -1, 1
+11:06:27.396 Input peaks = -1, 1
+11:06:37.429 Input peaks = -1, 1
+11:06:47.478 Input peaks = -1, 1
+11:06:57.544 Input peaks = -1, 1
+11:07:07.611 Input peaks = -1, 1
+11:07:17.682 Input peaks = -1, 1
+11:07:27.728 Input peaks = -1, 1
+11:07:37.797 Input peaks = -1, 1
+11:07:47.845 Input peaks = -1, 1
+11:07:57.897 Input peaks = -1, 1
+11:08:07.995 Input peaks = -1, 1
+11:08:18.049 Input peaks = -1, 1
+11:08:28.116 Input peaks = -1, 1
+11:08:38.164 Input peaks = -1, 1
+11:08:48.229 Input peaks = -1, 1
+11:08:58.252 Input peaks = -1, 1
+11:09:08.297 Input peaks = -1, 1
+11:09:18.340 Input peaks = -1, 1
+11:09:28.396 Input peaks = -1, 1
+11:09:38.481 Input peaks = -1, 1
+11:09:48.545 Input peaks = -1, 1
+11:09:58.617 Input peaks = -1, 1
+11:10:08.676 Input peaks = -1, 1
+11:10:18.732 Input peaks = -1, 1
+11:10:28.791 Input peaks = -1, 1
+11:10:38.844 Input peaks = -1, 1
+11:10:48.891 Input peaks = -1, 1
+11:10:58.940 Input peaks = -1, 1
+11:11:08.981 Input peaks = -1, 1
+11:11:19.079 Input peaks = -1, 1
+11:11:29.126 Input peaks = -1, 1
+11:11:39.197 Input peaks = -1, 1
+11:11:49.256 Input peaks = -1, 1
+11:11:59.320 Input peaks = -1, 1
+11:12:09.364 Input peaks = -1, 1
+11:12:19.421 Input peaks = -1, 1
+11:12:29.473 Input peaks = -1, 1
+11:12:39.527 Input peaks = -1, 1
+11:12:49.604 Input peaks = -1, 1
+11:12:59.651 Input peaks = -1, 1
+11:13:09.717 Input peaks = -1, 1
+11:13:19.746 Input peaks = -1, 1
+11:13:29.793 Input peaks = -1, 1
+11:13:39.859 Input peaks = -1, 1
+11:13:49.923 Input peaks = -1, 1
+11:14:00.015 Input peaks = -1, 1
+11:14:10.063 Input peaks = -1, 1
+11:14:20.120 Input peaks = -1, 1
+11:14:30.186 Input peaks = -1, 1
+11:14:40.232 Input peaks = -1, 1
+11:14:50.293 Input peaks = -1, 1
+11:15:00.376 Input peaks = -1, 1
+11:15:10.422 Input peaks = -1, 1
+11:15:20.471 Input peaks = -1, 1
+11:15:30.528 Input peaks = -1, 1
+11:15:40.572 Input peaks = -1, 1
+11:15:50.603 Input peaks = -1, 1
+11:16:00.693 Input peaks = -1, 1
+11:16:10.788 Input peaks = -1, 1
+11:16:20.839 Input peaks = -1, 1
+11:16:30.879 Input peaks = -1, 1
+11:16:40.937 Input peaks = -1, 1
+11:16:50.991 Input peaks = -1, 1
+11:17:01.055 Input peaks = -1, 1
+11:17:11.134 Input peaks = -1, 1
+11:17:21.220 Input peaks = -1, 1
+11:17:31.267 Input peaks = -1, 1
+11:17:41.317 Input peaks = -1, 1
+11:17:51.373 Input peaks = -1, 1
+11:18:01.399 Input peaks = -1, 1
+11:18:11.464 Input peaks = -1, 1
+11:18:21.532 Input peaks = -1, 1
+11:18:31.616 Input peaks = -1, 1
+11:18:41.694 Input peaks = -1, 1
+11:18:51.768 Input peaks = -1, 1
+11:19:01.837 Input peaks = -1, 1
+11:19:11.884 Input peaks = -1, 1
+11:19:21.939 Input peaks = -1, 1
+11:19:32.007 Input peaks = -1, 1
+11:19:42.069 Input peaks = -1, 1
+11:19:52.147 Input peaks = -1, 1
+11:20:02.241 Input peaks = -1, 1
+11:20:12.309 Input peaks = -1, 1
+11:20:22.369 Input peaks = -1, 1
+11:20:32.413 Input peaks = -1, 1
+11:20:42.461 Input peaks = -1, 1
+11:20:52.515 Input peaks = -1, 1
+11:21:02.584 Input peaks = -1, 1
+11:21:12.618 Input peaks = -1, 1
+11:21:22.682 Input peaks = -1, 1
+11:21:32.746 Input peaks = -1, 1
+11:21:42.801 Input peaks = -1, 1
+11:21:52.869 Input peaks = -1, 1
+11:22:02.924 Input peaks = -1, 1
+11:22:13.001 Input peaks = -1, 1
+11:22:23.093 Input peaks = -1, 1
+11:22:33.166 Input peaks = -1, 1
+11:22:43.236 Input peaks = -1, 1
+11:22:53.295 Input peaks = -1, 1
+11:23:03.331 Input peaks = -1, 1
+11:23:13.383 Input peaks = -1, 1
+11:23:23.444 Input peaks = -1, 1
+11:23:33.494 Input peaks = -1, 1
+11:24:34.541 GUI Connection lost
+11:24:38.042 Input peaks = -1, 1
+11:24:42.632 GUI Connected from Address 127.0.0.1
+11:24:47.745 Input peaks = -1, 1
+11:24:57.802 Input peaks = -1, 1
+11:25:07.857 Input peaks = -1, 1
+11:25:17.942 Input peaks = -1, 1
+11:25:27.996 Input peaks = -1, 1
+11:25:38.038 Input peaks = -1, 1
+11:25:48.099 Input peaks = -1, 1
+11:25:58.145 Input peaks = -1, 1
+11:26:08.194 Input peaks = -1, 1
+11:26:18.276 Input peaks = -1, 1
+11:26:28.330 Input peaks = -1, 1
+11:26:38.391 Input peaks = -1, 1
+11:26:48.477 Input peaks = -1, 1
+11:26:58.508 Input peaks = -1, 1
+11:27:08.553 Input peaks = -1, 1
+11:27:18.625 Input peaks = -1, 1
+11:27:28.662 Input peaks = -1, 1
+11:27:38.710 Input peaks = -1, 1
+11:27:48.751 Input peaks = -1, 1
+11:27:58.814 Input peaks = -1, 1
+11:28:08.875 Input peaks = -1, 1
+11:28:18.939 Input peaks = -1, 1
+11:28:29.001 Input peaks = -1, 1
+11:28:39.046 Input peaks = -1, 1
+11:28:49.120 Input peaks = -1, 1
+11:28:59.183 Input peaks = -1, 1
+11:29:09.248 Input peaks = -1, 1
+11:29:19.357 Input peaks = -1, 1
+11:29:29.403 Input peaks = -1, 1
+11:29:39.440 Input peaks = -1, 1
+11:29:49.526 Input peaks = -1, 1
+11:29:59.593 Input peaks = -1, 1
+11:30:09.657 Input peaks = -1, 1
+11:30:19.726 Input peaks = -1, 1
+11:30:29.785 Input peaks = -1, 1
+11:30:39.839 Input peaks = -1, 1
+11:30:49.910 Input peaks = -1, 1
+11:30:59.968 Input peaks = -1, 1
+11:31:10.000 Input peaks = -1, 1
+11:31:20.060 Input peaks = -1, 1
+11:31:30.148 Input peaks = -1, 1
+11:31:40.210 Input peaks = -1, 1
+11:31:50.257 Input peaks = -1, 1
+11:32:00.319 Input peaks = -1, 1
+11:32:10.384 Input peaks = -1, 1
+11:32:20.420 Input peaks = -1, 1
+11:32:30.463 Input peaks = -1, 1
+11:32:40.523 Input peaks = -1, 1
+11:32:50.571 Input peaks = -1, 1
+11:33:00.650 Input peaks = -1, 1
+11:33:10.736 Input peaks = -1, 1
+11:33:20.791 Input peaks = -1, 1
+11:33:30.873 Input peaks = -1, 1
+11:33:40.918 Input peaks = -1, 1
+11:33:51.025 Input peaks = -1, 1
+11:34:01.073 Input peaks = -1, 1
+11:34:11.185 Input peaks = -1, 1
+11:34:21.162 Input peaks = -1, 1
+11:34:31.226 Input peaks = -1, 1
+11:34:41.265 Input peaks = -1, 1
+11:34:51.339 Input peaks = -1, 1
+11:35:01.409 Input peaks = -1, 1
+11:35:11.482 Input peaks = -1, 1
+11:35:21.518 Input peaks = -1, 1
+11:35:31.573 Input peaks = -1, 1
+11:35:41.633 Input peaks = -1, 1
+11:35:51.679 Input peaks = -1, 1
+11:36:01.753 Input peaks = -1, 1
+11:36:11.799 Input peaks = -1, 1
+11:36:21.831 Input peaks = -1, 1
+11:36:31.877 Input peaks = -1, 1
+11:36:41.916 Input peaks = -1, 1
+11:36:51.962 Input peaks = -1, 1
+11:37:02.023 Input peaks = -1, 1
+11:37:12.087 Input peaks = -1, 1
+11:37:22.142 Input peaks = -1, 1
+11:37:32.226 Input peaks = -1, 1
+11:37:42.343 Input peaks = -1, 1
+11:37:52.331 Input peaks = -1, 1
+11:38:02.368 Input peaks = -1, 1
+11:38:12.402 Input peaks = -1, 1
+11:38:22.446 Input peaks = -1, 1
+11:38:32.487 Input peaks = -1, 1
+11:38:42.536 Input peaks = -1, 1
+11:38:52.586 Input peaks = -1, 1
+11:39:02.628 Input peaks = -1, 1
+11:39:12.695 Input peaks = -1, 1
+11:39:22.771 Input peaks = -1, 1
+11:39:32.794 Input peaks = -1, 1
+11:39:42.876 Input peaks = -1, 1
+11:39:52.922 Input peaks = -1, 1
+11:40:02.966 Input peaks = -1, 1
+11:40:12.998 Input peaks = -1, 1
+11:40:23.085 Input peaks = -1, 1
+11:40:33.121 Input peaks = -1, 1
+11:40:43.201 Input peaks = -1, 1
+11:40:53.245 Input peaks = -1, 1
+11:41:03.282 Input peaks = -1, 1
+11:41:13.355 Input peaks = -1, 1
+11:41:23.442 Input peaks = -1, 1
+11:41:33.482 Input peaks = -1, 1
+11:41:43.535 Input peaks = -1, 1
+11:41:53.595 Input peaks = -1, 1
+11:42:03.638 Input peaks = -1, 1
+11:42:13.697 Input peaks = -1, 1
+11:42:23.750 Input peaks = -1, 1
+11:42:33.812 Input peaks = -1, 1
+11:42:43.861 Input peaks = -1, 1
+11:42:53.942 Input peaks = -1, 1
+11:43:04.002 Input peaks = -1, 1
+11:43:14.051 Input peaks = -1, 1
+11:43:24.090 Input peaks = -1, 1
+11:43:34.148 Input peaks = -1, 1
+11:43:44.203 Input peaks = -1, 1
+11:43:54.282 Input peaks = -1, 1
+11:44:04.338 Input peaks = -1, 1
+11:44:14.417 Input peaks = -1, 1
+11:44:24.481 Input peaks = -1, 1
+11:44:34.536 Input peaks = -1, 1
+11:44:44.584 Input peaks = -1, 1
+11:44:54.640 Input peaks = -1, 1
+11:45:04.724 Input peaks = -1, 1
+11:45:14.786 Input peaks = -1, 1
+11:45:25.443 Input peaks = -1, 1
+11:45:35.477 Input peaks = -1, 1
+11:45:45.565 Input peaks = -1, 1
+11:45:55.620 Input peaks = -1, 1
+11:46:05.674 Input peaks = -1, 1
+11:46:15.719 Input peaks = -1, 1
+11:46:25.779 Input peaks = -1, 1
+11:46:35.860 Input peaks = -1, 1
+11:46:45.888 Input peaks = -1, 1
+11:46:55.948 Input peaks = -1, 1
+11:47:06.010 Input peaks = -1, 1
+11:47:16.032 Input peaks = -1, 1
+11:47:26.094 Input peaks = -1, 1
+11:47:36.144 Input peaks = -1, 1
+11:47:46.199 Input peaks = -1, 1
+11:47:56.281 Input peaks = -1, 1
+11:48:06.338 Input peaks = -1, 1
+11:48:16.384 Input peaks = -1, 1
+11:48:26.495 Input peaks = -1, 1
+11:48:36.531 Input peaks = -1, 1
+11:48:46.594 Input peaks = -1, 1
+11:48:56.641 Input peaks = -1, 1
+11:49:06.703 Input peaks = -1, 1
+11:49:16.770 Input peaks = -1, 1
+11:49:26.798 Input peaks = -1, 1
+11:49:36.887 Input peaks = -1, 1
+11:49:46.941 Input peaks = -1, 1
+11:49:56.994 Input peaks = -1, 1
+11:50:07.021 Input peaks = -1, 1
+11:50:17.080 Input peaks = -1, 1
+11:50:27.130 Input peaks = -1, 1
+11:50:37.195 Input peaks = -1, 1
+11:50:47.243 Input peaks = -1, 1
+11:50:57.337 Input peaks = -1, 1
+11:51:07.378 Input peaks = -1, 1
+11:51:17.459 Input peaks = -1, 1
+11:51:27.478 Input peaks = -1, 1
+11:51:37.554 Input peaks = -1, 1
+11:51:47.596 Input peaks = -1, 1
+11:51:57.661 Input peaks = -1, 1
+11:52:07.727 Input peaks = -1, 1
+11:52:17.755 Input peaks = -1, 1
+11:52:27.803 Input peaks = -1, 1
+11:52:37.853 Input peaks = -1, 1
+11:52:47.915 Input peaks = -1, 1
+11:52:57.972 Input peaks = -1, 1
+11:53:08.031 Input peaks = -1, 1
+11:53:18.106 Input peaks = -1, 1
+11:53:28.176 Input peaks = -1, 1
+11:53:38.239 Input peaks = -1, 1
+11:53:48.293 Input peaks = -1, 1
+11:53:58.343 Input peaks = -1, 1
+11:54:08.413 Input peaks = -1, 1
+11:54:18.471 Input peaks = -1, 1
+11:54:28.512 Input peaks = -1, 1
+11:54:38.553 Input peaks = -1, 1
+11:54:48.592 Input peaks = -1, 1
+11:54:58.653 Input peaks = -1, 1
+11:55:08.739 Input peaks = -1, 1
+11:55:18.801 Input peaks = -1, 1
+11:55:28.861 Input peaks = -1, 1
+11:55:38.926 Input peaks = -1, 1
+11:55:48.979 Input peaks = -1, 1
+11:55:59.031 Input peaks = -1, 1
+11:56:09.109 Input peaks = -1, 1
+11:56:19.169 Input peaks = -1, 1
+11:56:29.221 Input peaks = -1, 1
+11:56:39.269 Input peaks = -1, 1
+11:56:49.345 Input peaks = -1, 1
+11:56:59.387 Input peaks = -1, 1
+11:57:09.428 Input peaks = -1, 1
+11:57:19.485 Input peaks = -1, 1
+11:57:29.549 Input peaks = -1, 1
+11:57:39.588 Input peaks = -1, 1
+11:57:49.634 Input peaks = -1, 1
+11:57:59.676 Input peaks = -1, 1
+11:58:09.775 Input peaks = -1, 1
+11:58:19.817 Input peaks = -1, 1
+11:58:29.886 Input peaks = -1, 1
+11:58:39.935 Input peaks = -1, 1
+11:58:49.991 Input peaks = -1, 1
+11:59:00.049 Input peaks = -1, 1
+11:59:10.108 Input peaks = -1, 1
+11:59:20.151 Input peaks = -1, 1
+11:59:30.193 Input peaks = -1, 1
+11:59:40.239 Input peaks = -1, 1
+11:59:50.264 Input peaks = -1, 1
+12:00:00.310 Input peaks = -1, 1
+12:00:10.339 Input peaks = -1, 1
+12:00:20.392 Input peaks = -1, 1
+12:00:30.450 Input peaks = -1, 1
+12:00:40.537 Input peaks = -1, 1
+12:00:50.592 Input peaks = -1, 1
+12:01:00.665 Input peaks = -1, 1
+12:01:10.718 Input peaks = -1, 1
+12:01:20.761 Input peaks = -1, 1
+12:01:30.841 Input peaks = -1, 1
+12:01:40.900 Input peaks = -1, 1
+12:01:50.974 Input peaks = -1, 1
+12:02:01.053 Input peaks = -1, 1
+12:02:11.097 Input peaks = -1, 1
+12:02:21.159 Input peaks = -1, 1
+12:02:31.208 Input peaks = -1, 1
+12:02:41.277 Input peaks = -1, 1
+12:02:51.299 Input peaks = -1, 1
+12:03:01.334 Input peaks = -1, 1
+12:03:11.393 Input peaks = -1, 1
+12:03:21.440 Input peaks = -1, 1
+12:03:31.500 Input peaks = -1, 1
+12:03:41.541 Input peaks = -1, 1
+12:03:51.609 Input peaks = -1, 1
+12:04:01.676 Input peaks = -1, 1
+12:04:11.735 Input peaks = -1, 1
+12:04:21.786 Input peaks = -1, 1
+12:04:31.869 Input peaks = -1, 1
+12:04:41.942 Input peaks = -1, 1
+12:04:51.991 Input peaks = -1, 1
+12:05:02.062 Input peaks = -1, 1
+12:05:12.124 Input peaks = -1, 1
+12:05:22.197 Input peaks = -1, 1
+12:05:32.248 Input peaks = -1, 1
+12:05:42.302 Input peaks = -1, 1
+12:05:52.355 Input peaks = -1, 1
+12:06:02.411 Input peaks = -1, 1
+12:06:12.439 Input peaks = -1, 1
+12:06:22.479 Input peaks = -1, 1
+12:06:32.528 Input peaks = -1, 1
+12:06:42.583 Input peaks = -1, 1
+12:06:52.630 Input peaks = -1, 1
+12:07:02.695 Input peaks = -1, 1
+12:07:12.738 Input peaks = -1, 1
+12:07:22.786 Input peaks = -1, 1
+12:07:32.856 Input peaks = -1, 1
+12:07:42.925 Input peaks = -1, 1
+12:07:52.956 Input peaks = -1, 1
+12:08:03.018 Input peaks = -1, 1
+12:08:13.080 Input peaks = -1, 1
+12:08:23.134 Input peaks = -1, 1
+12:08:33.190 Input peaks = -1, 1
+12:08:43.251 Input peaks = -1, 1
+12:08:53.291 Input peaks = -1, 1
+12:09:03.366 Input peaks = -1, 1
+12:09:13.430 Input peaks = -1, 1
+12:09:23.455 Input peaks = -1, 1
+12:09:33.524 Input peaks = -1, 1
+12:09:43.597 Input peaks = -1, 1
+12:09:53.653 Input peaks = -1, 1
+12:10:03.708 Input peaks = -1, 1
+12:10:13.767 Input peaks = -1, 1
+12:10:23.827 Input peaks = -1, 1
+12:10:33.874 Input peaks = -1, 1
+12:10:43.922 Input peaks = -1, 1
+12:10:53.975 Input peaks = -1, 1
+12:11:04.020 Input peaks = -1, 1
+12:11:14.043 Input peaks = -1, 1
+12:11:24.112 Input peaks = -1, 1
+12:11:34.184 Input peaks = -1, 1
+12:11:34.859 Prior-Offset= -0.000185
+12:11:40.667 EnvelopeCorrelator CorMax:MaxProd= 57.121277  J= 207
+12:11:40.671 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 1
+12:11:41.666 frame sync timeout 6013797
+12:11:44.625 Input peaks = -1, 1
+12:11:54.682 Input peaks = -1, 1
+12:12:04.735 Input peaks = -1, 1
+12:12:12.678 Prior-Offset= -0.000036
+12:12:12.797 EnvelopeCorrelator CorMax:MaxProd= 57.123518  J= 323
+12:12:12.805 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 1
+12:12:13.689 frame sync timeout 32024
+12:12:13.814 Prior-Offset= 0.000129
+12:12:13.911 EnvelopeCorrelator CorMax:MaxProd= 57.865887  J= 80
+12:12:13.920 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 1
+12:12:14.782 Input peaks = -18416, 18416
+12:12:14.899 frame sync timeout 1207
+12:12:15.035 Prior-Offset= 0.000136
+12:12:15.121 EnvelopeCorrelator CorMax:MaxProd= 57.609228  J= 88
+12:12:15.126 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 1
+12:12:16.119 Frame Decode type 0 0 0 Dist 1.00 1.00 1.00 Sess ff pend 0 conn 0 lastsess 0
+12:12:16.129 [Frame Type Decode Fail] Ldr; S:N(3KHz) Early= 15.387676 dB, Full 7.793343 dB, Offset= -2.999915 Hz:  MD Decode;5 Type1=H0, Type2=H0, D1= 1.00, D2= 1.00
+12:12:16.132 poor frame type decode
+12:12:24.840 Input peaks = -1, 2
+12:12:25.017 Prior-Offset= -0.000076
+12:12:25.126 EnvelopeCorrelator CorMax:MaxProd= 57.111062  J= 316
+12:12:25.134 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 1
+12:12:26.024 frame sync timeout 11124
+12:12:26.139 Prior-Offset= 0.000054
+12:12:26.249 EnvelopeCorrelator CorMax:MaxProd= 58.210081  J= 73
+12:12:26.255 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 1
+12:12:27.241 frame sync timeout 1217
+12:12:27.367 Prior-Offset= -0.000041
+12:12:27.474 EnvelopeCorrelator CorMax:MaxProd= 57.877506  J= 81
+12:12:27.482 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 1
+12:12:28.467 Frame Decode type 0 0 0 Dist 1.00 1.00 1.00 Sess ff pend 0 conn 0 lastsess 0
+12:12:28.471 [Frame Type Decode Fail] Ldr; S:N(3KHz) Early= 15.387661 dB, Full 7.799385 dB, Offset= -2.999775 Hz:  MD Decode;5 Type1=H0, Type2=H0, D1= 1.00, D2= 1.00
+12:12:28.478 poor frame type decode
+12:12:34.911 Input peaks = -1, 1
+12:12:44.962 Input peaks = -1, 1
+12:12:55.027 Input peaks = -1, 1
+12:13:05.082 Input peaks = -1, 1
+12:13:12.108 Prior-Offset= -0.487288
+12:13:12.213 EnvelopeCorrelator CorMax:MaxProd= 60.003257  J= 342
+12:13:12.221 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+12:13:12.415 Frame Decode type 0 0 0 Dist 1.00 1.00 1.00 Sess ff pend 0 conn 0 lastsess 0
+12:13:12.424 [Frame Type Decode Fail] Ldr; S:N(3KHz) Early= -3.499382 dB, Full 14.781250 dB, Offset= -1.289025 Hz:  MD Decode;5 Type1=H0, Type2=H0, D1= 1.00, D2= 1.00
+12:13:12.425 poor frame type decode
+12:13:15.139 Input peaks = -1, 1
+12:13:20.066 Prior-Offset= 0.415712
+12:13:20.166 EnvelopeCorrelator CorMax:MaxProd= 58.613113  J= 150
+12:13:20.172 [Acquire2ToneLeaderSymbolFraming] intIatMinError= -1
+12:13:20.363 Frame Decode type 0 0 0 Dist 1.00 1.00 1.00 Sess ff pend 0 conn 0 lastsess 0
+12:13:20.373 [Frame Type Decode Fail] Ldr; S:N(3KHz) Early= 29.989334 dB, Full 23.329144 dB, Offset= -1.823334 Hz:  MD Decode;5 Type1=H0, Type2=H0, D1= 1.00, D2= 1.00
+12:13:20.375 poor frame type decode
+12:13:25.210 Input peaks = -1, 1
+12:13:35.282 Input peaks = -1, 1
+12:13:45.331 Input peaks = -18405, 18409
+12:13:47.921 Prior-Offset= -1.409019
+12:13:48.029 EnvelopeCorrelator CorMax:MaxProd= 64.800292  J= 99
+12:13:48.036 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+12:13:48.936 frame sync timeout 81694
+12:13:55.395 Input peaks = -1, 1
+12:14:05.448 Input peaks = -1, 1
+12:14:15.506 Input peaks = -1, 1
+12:14:25.554 Input peaks = -1, 1
+12:14:35.665 Input peaks = -1, 1
+12:14:45.723 Input peaks = -1, 1
+12:14:55.807 Input peaks = -1, 1
+12:15:05.895 Input peaks = -16412, 16310
+12:15:15.965 Input peaks = -1, 1
+12:15:26.048 Input peaks = -1, 1
+12:15:36.083 Input peaks = -16412, 16311
+12:15:46.126 Input peaks = -1, 1
+12:15:56.180 Input peaks = -1, 1
+12:16:06.202 Input peaks = -16383, 16474
+12:16:16.253 Input peaks = -16384, 16474
+12:16:26.351 Input peaks = -1, 1
+12:16:36.419 Input peaks = -1, 1
+12:16:46.465 Input peaks = -1, 1

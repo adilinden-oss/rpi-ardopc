@@ -1,0 +1,28 @@
+07:09:42.182  Command Trace TO Host DISCONNECTED
+07:09:42.184  Command Trace TO Host STATUS ARQ CONNECTION ENDED WITH G8BPQ-2 
+07:09:42.185 Sending Frame Type END
+07:09:42.185 [Main.KeyPTT]  PTT-TRUE
+07:09:42.318 [Command Trace FROM host: LISTEN TRUE
+07:09:42.322  Command Trace TO Host LISTEN now TRUE
+07:09:42.639 [Main.KeyPTT]  PTT-FALSE
+07:09:42.640  Command Trace TO Host BUFFER 0
+07:09:42.643  Command Trace TO Host BUFFER 0
+07:09:42.644  Command Trace TO Host NEWSTATE DISC 
+07:09:43.152 Prior-Offset= 1.547683
+07:09:43.244 EnvelopeCorrelator CorMax:MaxProd= 60.029224  J= 190
+07:09:43.245 [Acquire2ToneLeaderSymbolFraming] intIatMinError= 0
+07:09:43.344  Command Trace TO Host BUSY TRUE
+07:09:43.544 Frame Decode type 30 30 63 Dist 0.01 0.00 0.20 Sess ff pend 0 conn 0 lastsess 172
+07:09:43.548 [Frame Type Decode OK  ] Ldr; S:N(3KHz) Early= 12.049904 dB, Full 8.243618 dB, Offset= -1.692004 Hz:  MD Decode;2 ID=HFF, Type=H30:IDFrame, D1= 0.01, D2= 0.00
+07:09:43.548 New frame type - MEMARQ flags reset
+07:09:43.549 MEMARQ Flags 0 0 0 0 0 0 0 0
+07:09:44.845 Qual = 100
+07:09:44.849 DecodeFrame MEMARQ Flags 0 0 0 0 0 0 0 0
+07:09:44.850 [DecodeFrame] Frame: IDFrame Decode PASS,   Constellation Quality= 100
+07:09:44.851 Time since received = 5
+07:09:45.097 [AddTagToDataAndSendToHost] bytes=20 Tag IDF
+07:09:45.188 [ARDOPprotocol.tmrFinalID_Elapsed]  Send Final ID (G8BPQ-2, [IO68VL])
+07:09:45.189 Sending Frame Type IDFrame
+07:09:45.193 [Main.KeyPTT]  PTT-TRUE
+07:09:46.891 [Main.KeyPTT]  PTT-FALSE
+07:09:47.716 Input peaks = -28159, 28166

@@ -1,0 +1,30 @@
+07:09:42.144
+************************* ARQ session stats with G8BPQ-2  0 minutes ****************************
+     LeaderDetects= 11   AvgLeader S+N:N(3KHz noise BW)= 9.239074 dB  LeaderSyncs= 11
+     AvgCorrelationMax:MaxProd= 60.473785 over 11  correlations
+     FrameSyncs=11  Good Frame Type Decodes=11  Failed Frame Type Decodes =0
+     Avg Frame Type decode distance= 0.005513 over 9 decodes
+ 
+  FSK:
+     Good FSK Data Frame Decodes= 1  RecoveredFSKCarriers with Summation=0  Failed FSK Data Frame Decodes=0
+     AccumFSKTracking= 0   over 12 symbols   Good Data Frame Decodes= 1   Failed Data Frame Decodes=0
+ 
+  PSK:
+     Good PSK Data Frame Decodes=2  RecoveredPSKCarriers with Summation=0  Failed PSK Data Frame Decodes=0
+     AccumPSKTracking=0  0 attempts over 792 total PSK Symbols
+ 
+  Squelch= 5 BusyDet= 5 Mode Shift UPs= 0   Mode Shift DOWNs= 0  Link Turnovers= 2
+ 
+  Received Frame Quality:
+     Avg 4FSK Quality=98 on 9 frame(s)
+     Avg 4PSK Quality=87 on 2 frame(s)
+
+Type              ACKS  NAKS
+4FSK.500.100S.E      0     0
+4FSK.500.100.E       0     0
+4PSK.500.100.E       0     0
+4PSK.1000.100.E      1     0
+4PSK.2000.100.E      0     0
+8PSK.2000.100.E      0     0
+16QAM.2000.100.E     0     0
+************************************************************************************************
